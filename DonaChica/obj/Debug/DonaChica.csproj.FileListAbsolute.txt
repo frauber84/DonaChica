@@ -1,0 +1,19 @@
+C:\Users\Fernando\AppData\Local\Temporary Projects\DonaChica\bin\Debug\DonaChica.exe
+C:\Users\Fernando\AppData\Local\Temporary Projects\DonaChica\bin\Debug\DonaChica.pdb
+C:\Users\Fernando\AppData\Local\Temporary Projects\DonaChica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fernando\AppData\Local\Temporary Projects\DonaChica\obj\Debug\DonaChica.Form1.resources
+C:\Users\Fernando\AppData\Local\Temporary Projects\DonaChica\obj\Debug\DonaChica.Properties.Resources.resources
+C:\Users\Fernando\AppData\Local\Temporary Projects\DonaChica\obj\Debug\DonaChica.csproj.GenerateResource.Cache
+C:\Users\Fernando\AppData\Local\Temporary Projects\DonaChica\obj\Debug\DonaChica.exe
+C:\Users\Fernando\AppData\Local\Temporary Projects\DonaChica\obj\Debug\DonaChica.pdb
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\DonaChica\DonaChica\obj\Debug\DonaChica.exe
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\DonaChica\DonaChica\obj\Debug\DonaChica.pdb
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\DonaChica\DonaChica\bin\Debug\DonaChica.exe
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\DonaChica\DonaChica\bin\Debug\DonaChica.pdb
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\DonaChica\DonaChica\bin\Debug\Midi.dll
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\DonaChica\DonaChica\bin\Debug\Midi.pdb
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\DonaChica\DonaChica\bin\Debug\Midi.xml
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\DonaChica\DonaChica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\DonaChica\DonaChica\obj\Debug\DonaChica.Form1.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\DonaChica\DonaChica\obj\Debug\DonaChica.Properties.Resources.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\DonaChica\DonaChica\obj\Debug\DonaChica.csproj.GenerateResource.Cache
